@@ -1,13 +1,13 @@
 # sinau-react
-##Agenda
+## Agenda
 Daftar pembelajaran utama: Modern JavaScript, React dan React Native.
 
-##Modern JavaScript
+## Modern JavaScript
 - Session 1: Introduction To Modern JavaScript
 - Session 2: Array, Object Literal and Functional JavaScript
 - Session 3: Class OOP, Modules, Promise and Async/Await
 
-##React
+## React
 - Session 4: Intro to React
 - Session 5: Data flow in React, Atomic design
 - Session 6: Stateful and stateless component
