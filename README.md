@@ -18,7 +18,8 @@ Daftar pembelajaran utama: Modern JavaScript, React dan React Native.
 - Session 11: Redux Middleware
 - Session 12: Async in Redux
 - Session 13: Testing React component, Deploying react app
-- React Native
+
+## React Native
 - Session 14: Introduction to React Native
 - Session 15: React Native components and Router
 - Session 16: Final project presentation
