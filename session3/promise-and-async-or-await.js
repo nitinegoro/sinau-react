@@ -1,5 +1,5 @@
 // Session 3 : Promise and async/await
-/*(async () => {
+(async () => {
   const response = await fetch("http://bangkaterkini.id/api/latest?limit=100");
   let results = await response.json();
   let data = results['results'].filter(post => post.ID >= 850 );
@@ -7,12 +7,12 @@
     data.forEach((post, key) => {
          console.log(post.ID);
     })
-})();*/
+})();
 
 
 // Session 3 : Homework: Promise and Async/Await
 
-/*const arrayOfWords = ['cucumber', 'tomatos', 'avocado'];
+const arrayOfWords = ['cucumber', 'tomatos', 'avocado'];
 const complicatedArray = ['cucumber', 44, true];
 
 const makeAllCaps = function(arrayData){
@@ -42,5 +42,5 @@ makeAllCaps(complicatedArray)
 .then(sortWords)
 .then((result) => console.log(result))
 .catch(error => console.log(error))
-*/
+
 
