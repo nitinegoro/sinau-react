@@ -1,4 +1,5 @@
-class Shape {
+class Shape 
+{
   	constructor(id) 
   	{
   		this._id = id;
@@ -14,7 +15,8 @@ class Shape {
   	}
 }
 
-class Rectangle extends Shape {
+class Rectangle extends Shape 
+{
   	constructor(id, height, width) 
   	{
   		super(id);
@@ -23,7 +25,8 @@ class Rectangle extends Shape {
   	}
 }
 
-class Circle extends Shape {
+class Circle extends Shape 
+{
   	constructor(id, radius) 
   	{
   		super(id);
@@ -31,7 +34,8 @@ class Circle extends Shape {
   	}
 }
 
-class Eye extends Shape {
+class Eye extends Shape 
+{
   	constructor(x, color) 
   	{
   		super(x);
